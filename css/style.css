@@ -1,0 +1,18 @@
+header{
+    background-color: #FFF9F4;
+}
+.logo-image{
+    width: 250px;
+    height: auto;
+}
+.jacket-card{
+    border: 0;
+}
+.ladies-jacket img{
+    background-color: #F1F1F1;
+    padding: 10px 20px;
+    border-radius: 5%;
+}
+.product-price{
+    color: #FA804C;
+}
